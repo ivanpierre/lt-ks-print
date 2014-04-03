@@ -1,0 +1,6 @@
+{:name "lt_ks_print"
+ :version "0.0.1"
+ :author "Ivan Pierre <ivan@kilroysoft.ch>"
+ :source "https://github.com/ivanpierre/lt-ks-print"
+ :desc "Light Table plug-in for printing"
+ :behaviors "lt_ks_print.behaviors"}

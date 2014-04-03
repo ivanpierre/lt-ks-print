@@ -1,0 +1,2 @@
+{:+ {:app [(:lt.objs.plugins/load-js "lt_ks_print_compiled.js")]
+     :lt-ks-print.hello [:lt.plugins.lt-ks-print/on-close-destroy]}}
